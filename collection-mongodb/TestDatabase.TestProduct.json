@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "64fd4142fe74c25e4ecc0497"
+  },
+  "Name": "Food",
+  "IsActive": true
+},
+{
+  "_id": {
+    "$oid": "65042008e556843c1b11ef18"
+  },
+  "Name": "Drink",
+  "IsActive": true
+},
+{
+  "_id": {
+    "$oid": "65042ea40268cc45667b6f3f"
+  },
+  "Name": "Office",
+  "IsActive": true
+},
+{
+  "_id": {
+    "$oid": "650430a40268cc45667b6f40"
+  },
+  "Name": "Furniture",
+  "IsActive": true
+},
+{
+  "_id": {
+    "$oid": "6504336b98534382459fceba"
+  },
+  "Name": "Otomotif",
+  "IsActive": true
+},
+{
+  "_id": {
+    "$oid": "650433a898534382459fcebb"
+  },
+  "Name": "Makeup",
+  "IsActive": true
+}]

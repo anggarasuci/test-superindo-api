@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "64fdefea9a26185769d8a70c"
+  },
+  "Username": "admin",
+  "Password": "admin123",
+  "IsAdmin": true
+},
+{
+  "_id": {
+    "$oid": "64fdf0269a26185769d8a70d"
+  },
+  "Username": "user",
+  "Password": "user123",
+  "IsAdmin": false
+},
+{
+  "_id": {
+    "$oid": "650424cad57b8215e1634470"
+  },
+  "Username": "admin",
+  "Password": "123456",
+  "IsAdmin": true
+}]

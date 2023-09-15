@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{FF360C4C-5357-420B-8E70-C9B161BC1CCF}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductApi/Model/ProductCategory.cs">
+    <Files>
+      <File FileName="ProductApi/appsettings.json" />
+      <File FileName="ProductApi/Controllers/WeatherForecastController.cs" />
+      <File FileName="ProductApi/Program.cs" />
+      <File FileName="ProductApi/Model/ProductCategory.cs" Line="12" Column="1" />
+      <File FileName="ProductApi/Model/Product.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductApi" expanded="True">
+            <Node name="ProductApi" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProductApi FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

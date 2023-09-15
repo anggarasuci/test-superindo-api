@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6504363c98534382459fcebc"
+  },
+  "ProductCategoryId": "650430a40268cc45667b6f40",
+  "ProductCategoryName": "Furniture",
+  "Name": "Meja Billiard",
+  "Amount": 1,
+  "Total": 2000000
+},
+{
+  "_id": {
+    "$oid": "65044eb26475fc18f1554c53"
+  },
+  "ProductCategoryId": "650430a40268cc45667b6f40",
+  "ProductCategoryName": "Furniture",
+  "Name": "Kaso ukuran 4x12",
+  "Amount": 10,
+  "Total": 1680000
+}]
